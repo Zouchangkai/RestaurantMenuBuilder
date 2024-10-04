@@ -20,5 +20,7 @@ public class EmployeeDirectorTest {
         assertEquals("ChangkaiZou", employee.getName());
         assertEquals("IT", employee.getDepartment());
         assertEquals("Manager", employee.getRole());
+        assertEquals(35,employee.getWorkingHoursPerWeek());
+        assertEquals(80000,employee.getSalary());
     }
 }
