@@ -1,0 +1,6 @@
+/EMSystem/nbproject/
+/EMSystem/target/
+.gradle/ 
+target/ 
+build/ 
+*.class 
